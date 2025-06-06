@@ -72,5 +72,5 @@ docker run -d --name web1 --network lab11net -p 8081:80
 
  ### Sprawdzenie czy kontenery sa w jednej sieci
 
- ![ip-addresses](screens/ip-addreses.jpg)
+ ![ip-addresses](screens/ip-addresses.jpg)
 
